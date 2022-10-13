@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class RockPaperScissorGame {
 
-    Player player;
+    private Player player;
 
     Fist aifist;
 
